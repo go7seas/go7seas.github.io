@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title:  GO7SEAS Docs
-logo: go7seas-icon.png
+logo: /go7seas-icon.png
 show_downloads: false
